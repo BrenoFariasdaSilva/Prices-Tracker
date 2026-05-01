@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Prices-Tracker.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [Prices-Tracker.](https://github.com/BrenoFariasdaSilva/Prices-Tracker) <img src="Icon-Image-URL"  width="3%" height="3%">
 
 </div>
 
@@ -36,7 +36,7 @@ Project-Description.
 </div>
 
 ## Table of Contents
-- [Prices-Tracker. ](#Prices-Tracker-)
+- [Prices-Tracker. ](#prices-tracker-)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Requirements](#requirements)

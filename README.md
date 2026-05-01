@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Prices-Tracker.](https://github.com/BrenoFariasdaSilva/Prices-Tracker) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [Prices-Tracker.](https://github.com/BrenoFariasdaSilva/Prices-Tracker) <img src="https://github.com/BrenoFariasdaSilva/Prices-Tracker/blob/main/.assets/Icons/Investment.png"  width="3%" height="3%">
 
 </div>
 
